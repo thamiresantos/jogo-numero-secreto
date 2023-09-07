@@ -25,3 +25,5 @@ function exibeChuteNaTela(chute){
 
 //evento. Quando a função acabar ele ligar mais uma vez o reconhecimento de voz
 recognition.addEventListener('end', () => recognition.start())
+
+
